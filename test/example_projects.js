@@ -20,7 +20,6 @@ describe('Projects', function() {
     'zettajs/zetta-cloud-bluemix-sample',
     'zettajs/zetta-j5-sample',
     'zettajs/zetta-cloud-sample',
-    'zettajs/zetta-cloud-azure-sample',
     'zettajs/robotics-demo'
   ];
 
